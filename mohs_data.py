@@ -3,7 +3,7 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException, WebDriverException
 from bs4 import BeautifulSoup
-from sheet import export_to_sheets
+#from sheet import export_to_sheets
 
 from selenium.webdriver.chrome.options import Options
 from datetime import date
@@ -152,6 +152,9 @@ if __name__ == "__main__":
     summary,ts_data = get_data(html_file)
     #print(ts_data.tail(10))
     print(summary.dtypes)
+    print(summary.columns)
+    print(ts_data.head(10))
+    print(summary)
     '''
     
     print(test_df.shape)

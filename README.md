@@ -1,4 +1,4 @@
-# Project Title
+# MOHS_Scraper
 
 MOHS Arcgis Dashboard - Scraping and push the data to MySQL to integrate with PowerBI for visualization
 
@@ -10,25 +10,25 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install 
 
 ### Activate Environment 
-    - (on window) run cmd command - 
+- (on window) run cmd command >
 ```
 .\environment\Script\activate.bat
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
 ```
-Give the example
+pip install -r requirements.txt
 ```
 
-And repeat
-
+## SQL Commands
+- Create Township Table 
+```SQL
+create table township(id int auto_increment primary key, upload_date DATE DEFAULT (CURRENT_DATE), townships varchar(255), sr varchar(255) not null, cumulative_no int);
 ```
-until finished
+- Create Overall Table 
+```SQL
+create table overall(id int auto_increment primary key, upload_date DATE DEFAULT (CURRENT_DATE), index_name varchar(255) not null, total_no float not null);
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
