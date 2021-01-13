@@ -11,13 +11,13 @@ What things you need to install the software and how to install
 
 ### Activate Environment 
 - (on window) run cmd command >
-```
+```bash
 .\environment\Script\activate.bat
 ```
 
 ### Installing
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
