@@ -1,0 +1,5 @@
+PyMySQL
+SQLAlchemy
+beautifulsoup4
+pandas
+selenium
