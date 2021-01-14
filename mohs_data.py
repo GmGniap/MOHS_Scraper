@@ -60,7 +60,7 @@ def get_data(open_file):
     summary = []
     tds = []
 
-    # Scraping Abbreviation Table
+    ## Scraping Abbreviation Table
     table_info = soup.find_all("table")[0]
     for row in table_info.find_all('td'):
         #print(row)
@@ -84,7 +84,7 @@ def get_data(open_file):
     
     #print(summary)
 
-    # Combine above two list into Dictionary
+    ## Combine above two list into Dictionary
     result_dict = {}
     for key in tds:
         for value in summary:
@@ -98,15 +98,20 @@ def get_data(open_file):
     sr = [] 
     no = []
     
+    ## Patterns to extract Township & Numbers
     pattern = re.compile(r'Total:\s\d+')
-    pattern2 = re.compile(r'^[A-Z].*Township,.*,')
+    #pattern2 = re.compile(r'^[A-Z].*Township,.*,')
     pattern2_test = re.compile(r'[[A-Z].*Township,.*,|.*\(Seikkan\),.*|Laboratory\sConfirmed,.*|.*Yangon\sRegion\*,|.*Naypyitaw\*,|]')
+    
     feature_list = soup.find_all('nav', class_='feature-list')
 
+    # This header must be the same as SQL table column names 
     header = ['townships','sr','cumulative_no']
     ts_sr_dict = dict.fromkeys(header)
     count = 0
     #print(ts_sr_dict)
+
+    ## Extracting Township & Number data 
     for feature in feature_list:
         for p in feature.find_all('p'):
             
@@ -126,7 +131,7 @@ def get_data(open_file):
                 ts.append(test[0].strip())
                 sr.append(test[1].strip())
 
-    # Assign ts,sr,no values into dictionary 
+    ## Assign ts,sr,no values into dictionary 
     ts_sr_dict['townships'] = ts
     ts_sr_dict['sr'] = sr
     ts_sr_dict['cumulative_no'] = no

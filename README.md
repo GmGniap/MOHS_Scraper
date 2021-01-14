@@ -1,14 +1,14 @@
 # MOHS_Scraper
-
+:scissors:
 MOHS Arcgis Dashboard - Scraping and push the data to MySQL to integrate with PowerBI for visualization
 
-## Getting Started
+## List to Do 
+- [x] MySQL Connection
+- [] Schedule to run script at every 8:30PM
+- [] Auto insert into the template
+- [] PowerBI visualzation & published 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-What things you need to install the software and how to install 
-
+## Prerequisites
 ### Activate Environment 
 - (on window) run cmd command >
 ```console
@@ -21,7 +21,8 @@ What things you need to install the software and how to install
 pip install -r requirements.txt
 ```
 
-## SQL Commands
+### SQL Commands
+- Beware that SQL Table Column names must be the same as pandas dataframe column names. And also the data types. 
 - Create Township Table 
 ```SQL
 create table township(id int auto_increment primary key, upload_date DATE DEFAULT (CURRENT_DATE), townships varchar(255), sr varchar(255) not null, cumulative_no int);
@@ -31,15 +32,11 @@ create table township(id int auto_increment primary key, upload_date DATE DEFAUL
 create table overall(id int auto_increment primary key, upload_date DATE DEFAULT (CURRENT_DATE), index_name varchar(255) not null, total_no float not null);
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+
 
 ## Running the tests
 
 Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
 
 ```
 Give an example
