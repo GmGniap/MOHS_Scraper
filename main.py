@@ -27,21 +27,20 @@ if __name__ == "__main__":
     if os.path.isfile(html_file) is False:
         print("Scraping for..."+today_str)
         get_source_mohs()
-# Data Update 
+## Data Update 
         summary,ts_data = get_data(html_file)
 
 ## need to covert previous String type into Integer 
 ## but comma separated (like 1,500) is being error while coverting into int 
 ## so need to use split,join function as a trick 
         ts_data['cumulative_no'] = ts_data['cumulative_no'].str.split(',').str.join('').astype(int)
-#print(ts_data.dtypes)
-#print(ts_data['cumulative_no'].head(10))
+        #print(ts_data.dtypes)
+        #print(ts_data['cumulative_no'].head(10))
 
 ## change the data type into Float to match with SQL type
         summary['Total_No'] = summary['Total_No'].astype(float)
 
 ## change the index name to align with SQL column name
-#summary.DataFrame.rename('index_name', inplace=True)
         summary.rename_axis('index_name',inplace=True)
     #print(summary.dtypes)
     #print(summary)

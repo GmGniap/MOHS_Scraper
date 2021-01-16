@@ -4,9 +4,14 @@ MOHS Arcgis Dashboard - Scraping and push the data to MySQL to integrate with Po
 
 ## List to Do 
 - [x] MySQL Connection
-- [] Schedule to run script at every 8:30PM
+- [x] Schedule to run script at every 8:30PM
 - [] Auto insert into the template
-- [] PowerBI visualzation & published 
+- [] PowerBI visualzation & published
+
+### January 16 - Tasks 
+* [x] DF1 from SQL // DF2 from HTML old
+* [] Find duplicates
+* [] Compare the values 
 
 ## Prerequisites
 ### Activate Environment 
