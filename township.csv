@@ -1,0 +1,581 @@
+,id,upload_date,townships,sr,cumulative_no
+0,1,2021-01-15,Mingaladon Township,Yangon Region,6015
+1,2,2021-01-15,North Okkalapa Township,Yangon Region,5819
+2,3,2021-01-15,Hlaingtharya Township,Yangon Region,4795
+3,4,2021-01-15,Insein Township,Yangon Region,4597
+4,5,2021-01-15,Thingangyun Township,Yangon Region,4528
+5,6,2021-01-15,Mayangone Township,Yangon Region,3829
+6,7,2021-01-15,Shwepyithar Township,Yangon Region,3792
+7,8,2021-01-15,Bago Township,Bago Region,3179
+8,9,2021-01-15,Dagon Myothit (South) Township,Yangon Region,3172
+9,10,2021-01-15,Tamwe Township,Yangon Region,3001
+10,11,2021-01-15,South Okkalapa Township,Yangon Region,2961
+11,12,2021-01-15,Hlaing Township,Yangon Region,2954
+12,13,2021-01-15,Thanlyin Township,Yangon Region,2848
+13,14,2021-01-15,Chanayethazan Township,Mandalay Region,2651
+14,15,2021-01-15,Kamaryut Township,Yangon Region,2480
+15,16,2021-01-15,Aungmyaythazan Township,Mandalay Region,2449
+16,17,2021-01-15,Mahaaungmyay Township,Mandalay Region,2440
+17,18,2021-01-15,Thaketa Township,Yangon Region,2385
+18,19,2021-01-15,Dagon Myothit (North) Township,Yangon Region,2308
+19,20,2021-01-15,Hmawbi Township,Yangon Region,2107
+20,21,2021-01-15,Dagon Myothit (East) Township,Yangon Region,2044
+21,22,2021-01-15,Kyeemyindaing Township,Yangon Region,2038
+22,23,2021-01-15,Sanchaung Township,Yangon Region,2024
+23,24,2021-01-15,Chanmyathazi Township,Mandalay Region,1916
+24,25,2021-01-15,Mingalartaungnyunt Township,Yangon Region,1836
+25,26,2021-01-15,Amarapura Township,Mandalay Region,1579
+26,27,2021-01-15,Sittwe Township,Rakhine State,1549
+27,28,2021-01-15,Bahan Township,Yangon Region,1546
+28,29,2021-01-15,Dala Township,Yangon Region,1411
+29,30,2021-01-15,Mawlamyine Township,Mon State,1363
+30,31,2021-01-15,Yankin Township,Yangon Region,1294
+31,32,2021-01-15,Lanmadaw Township,Yangon Region,1276
+32,33,2021-01-15,Dagon Myothit (Seikkan),Yangon Region,1250
+33,34,2021-01-15,Botahtaung Township,Yangon Region,1169
+34,35,2021-01-15,Hlegu Township,Yangon Region,1117
+35,36,2021-01-15,Dawbon Township,Yangon Region,1102
+36,37,2021-01-15,Ahlone Township,Yangon Region,1088
+37,38,2021-01-15,Kyauktan Township,Yangon Region,949
+38,39,2021-01-15,Pyigyitagon Township,Mandalay Region,944
+39,40,2021-01-15,Twantay Township,Yangon Region,923
+40,41,2021-01-15,Pabedan Township,Yangon Region,880
+41,42,2021-01-15,Pazundaung Township,Yangon Region,809
+42,43,2021-01-15,Latha Township,Yangon Region,785
+43,44,2021-01-15,Pathein Township,Ayeyarwady Region,756
+44,45,2021-01-15,Dagon Township,Yangon Region,700
+45,46,2021-01-15,Hinthada Township,Ayeyarwady Region,671
+46,47,2021-01-15,Taikkyi Township,Yangon Region,658
+47,48,2021-01-15,Patheingyi Township,Mandalay Region,650
+48,49,2021-01-15,Htantabin Township,Yangon Region,639
+49,50,2021-01-15,Kyauktada Township,Yangon Region,635
+50,51,2021-01-15,Aunglan Township,Magway Region,594
+51,52,2021-01-15,Hpa-An Township,Kayin State,539
+52,53,2021-01-15,Thayarwady Township,Bago Region,516
+53,54,2021-01-15,Laboratory Confirmed,New Case (14-1-2021,513
+54,55,2021-01-15,Maubin Township,Ayeyarwady Region,505
+55,56,2021-01-15,Sagaing Township,Sagaing Region,497
+56,57,2021-01-15,Mawlamyinegyun Township,Ayeyarwady Region,494
+57,58,2021-01-15,Zay Yar Thi Ri Township,Naypyitaw,482
+58,59,2021-01-15,Thaton Township,Mon State,476
+59,60,2021-01-15,Myingyan Township,Mandalay Region,468
+60,61,2021-01-15,Letpadan Township,Bago Region,468
+61,62,2021-01-15,Phyu Township,Bago Region,467
+62,63,2021-01-15,Kyaukpyu Township,Rakhine State,446
+63,64,2021-01-15,Hpakant Township,Kachin State,445
+64,65,2021-01-15,Seikgyikanaungto Township,Yangon Region,438
+65,66,2021-01-15,Kayan Township,Yangon Region,436
+66,67,2021-01-15,Waw Township,Bago Region,431
+67,68,2021-01-15,Kale Township,Sagaing Region,430
+68,69,2021-01-15,Thongwa Township,Yangon Region,420
+69,70,2021-01-15,Dedaye Township,Ayeyarwady Region,412
+70,71,2021-01-15,Maungdaw Township,Rakhine State,398
+71,72,2021-01-15,Magway Township,Magway Region,395
+72,73,2021-01-15,Myawaddy Township,Kayin State,389
+73,74,2021-01-15,Kawa Township,Bago Region,382
+74,75,2021-01-15,Kyauktaga Township,Bago Region,345
+75,76,2021-01-15,Kawhmu Township,Yangon Region,319
+76,77,2021-01-15,Kyaikto Township,Mon State,309
+77,78,2021-01-15,Myeik Township,Tanintharyi Region,306
+78,79,2021-01-15,Kungyangon Township,Yangon Region,298
+79,80,2021-01-15,Sintgaing Township,Mandalay Region,297
+80,81,2021-01-15,Salin Township,Magway Region,276
+81,82,2021-01-15,Kyonpyaw Township,Ayeyarwady Region,274
+82,83,2021-01-15,Mrauk-U Township,Rakhine State,265
+83,84,2021-01-15,Kyauktaw Township,Rakhine State,264
+84,85,2021-01-15,Bogale Township,Ayeyarwady Region,263
+85,86,2021-01-15,Nyaunglebin Township,Bago Region,250
+86,87,2021-01-15,Taungdwingyi Township,Magway Region,250
+87,88,2021-01-15,Labutta Township,Ayeyarwady Region,248
+88,89,2021-01-15,Kyaiklat Township,Ayeyarwady Region,248
+89,90,2021-01-15,Taungtha Township,Mandalay Region,246
+90,91,2021-01-15,Nyaungdon Township,Ayeyarwady Region,242
+91,92,2021-01-15,Myothit Township,Magway Region,234
+92,93,2021-01-15,Minhla Township,Bago Region,234
+93,94,2021-01-15,Taunggyi Township,Shan State (South),232
+94,95,2021-01-15,Meiktila Township,Mandalay Region,229
+95,96,2021-01-15,Za Bu Thi Ri Township,Naypyitaw,228
+96,97,2021-01-15,Minbu Township,Magway Region,226
+97,98,2021-01-15,Pyapon Township,Ayeyarwady Region,224
+98,99,2021-01-15,Daik-U Township,Bago Region,223
+99,100,2021-01-15,Kawkareik Township,Kayin State,218
+100,101,2021-01-15,Pyay Township,Bago Region,216
+101,102,2021-01-15,Shwebo Township,Sagaing Region,216
+102,103,2021-01-15,Myaungmya Township,Ayeyarwady Region,215
+103,104,2021-01-15,Natmauk Township,Magway Region,200
+104,105,2021-01-15,Buthidaung Township,Rakhine State,195
+105,106,2021-01-15,Okpho Township,Bago Region,194
+106,107,2021-01-15,Thanatpin Township,Bago Region,191
+107,108,2021-01-15,Taungoo Township,Bago Region,189
+108,109,2021-01-15,Pyinoolwin Township,Mandalay Region,187
+109,110,2021-01-15,Monywa Township,Sagaing Region,183
+110,111,2021-01-15,Toungup Township,Rakhine State,180
+111,112,2021-01-15,Kyaukse Township,Mandalay Region,173
+112,113,2021-01-15,Ann Township,Rakhine State,171
+113,114,2021-01-15,Shwedaung Township,Bago Region,170
+114,115,2021-01-15,Yedashe Township,Bago Region,170
+115,116,2021-01-15,Bilin Township,Mon State,166
+116,117,2021-01-15,Kyaukpadaung Township,Mandalay Region,157
+117,118,2021-01-15,Rathedaung Township,Rakhine State,152
+118,119,2021-01-15,Yenangyaung Township,Magway Region,144
+119,120,2021-01-15,Paung Township,Mon State,136
+120,121,2021-01-15,Nyaung-U Township,Mandalay Region,135
+121,122,2021-01-15,Nattalin Township,Bago Region,134
+122,123,2021-01-15,Pakokku Township,Magway Region,132
+123,124,2021-01-15,Chauk Township,Magway Region,130
+124,125,2021-01-15,Yegyi Township,Ayeyarwady Region,130
+125,126,2021-01-15,Tedim Township,Chin State,127
+126,127,2021-01-15,Pauktaw Township,Rakhine State,124
+127,128,2021-01-15,Gyobingauk Township,Bago Region,124
+128,129,2021-01-15,Thandwe Township,Rakhine State,118
+129,130,2021-01-15,Paungde Township,Bago Region,117
+130,131,2021-01-15,Madaya Township,Mandalay Region,116
+131,132,2021-01-15,Thazi Township,Mandalay Region,116
+132,133,2021-01-15,Monyo Township,Bago Region,115
+133,134,2021-01-15,Dawei Township,Tanintharyi Region,115
+134,135,2021-01-15,Ingapu Township,Ayeyarwady Region,115
+135,136,2021-01-15,Poke Ba Thi Ri Township,Naypyitaw,114
+136,137,2021-01-15,Myitkyina Township,Kachin State,112
+137,138,2021-01-15,Oktwin Township,Bago Region,112
+138,139,2021-01-15,Pyawbwe Township,Mandalay Region,108
+139,140,2021-01-15,Ye Township,Mon State,106
+140,141,2021-01-15,Tada-U Township,Mandalay Region,106
+141,142,2021-01-15,Ponnagyun Township,Rakhine State,105
+142,143,2021-01-15,Tachileik Township,Shan State (East),104
+143,144,2021-01-15,Danubyu Township,Ayeyarwady Region,104
+144,145,2021-01-15,Wakema Township,Ayeyarwady Region,103
+145,146,2021-01-15,Tamu Township,Sagaing Region,101
+146,147,2021-01-15,Lewe Township,Naypyitaw,100
+147,148,2021-01-15,Padaung Township,Bago Region,99
+148,149,2021-01-15,Kalaw Township,Shan State (South),99
+149,150,2021-01-15,Pyinmana Township,Naypyitaw,97
+150,151,2021-01-15,Thegon Township,Bago Region,97
+151,152,2021-01-15,Natogyi Township,Mandalay Region,97
+152,153,2021-01-15,Myebon Township,Rakhine State,95
+153,154,2021-01-15,Myittha Township,Mandalay Region,95
+154,155,2021-01-15,Minbya Township,Rakhine State,92
+155,156,2021-01-15,Myaing Township,Magway Region,92
+156,157,2021-01-15,Yamethin Township,Mandalay Region,90
+157,158,2021-01-15,Wundwin Township,Mandalay Region,87
+158,159,2021-01-15,Pwintbyu Township,Magway Region,87
+159,160,2021-01-15,Yinmarbin Township,Sagaing Region,85
+160,161,2021-01-15,Kyaunggon Township,Ayeyarwady Region,83
+161,162,2021-01-15,Kanbalu Township,Sagaing Region,81
+162,163,2021-01-15,Zigon Township,Bago Region,79
+163,164,2021-01-15,Hlaingbwe Township,Kayin State,78
+164,165,2021-01-15,Mudon Township,Mon State,74
+165,166,2021-01-15,Ngazun Township,Mandalay Region,73
+166,167,2021-01-15,Shwegyin Township,Bago Region,72
+167,168,2021-01-15,Kyaikmaraw Township,Mon State,71
+168,169,2021-01-15,Salingyi Township,Sagaing Region,70
+169,170,2021-01-15,Gangaw Township,Magway Region,69
+170,171,2021-01-15,Thayet Township,Magway Region,68
+171,172,2021-01-15,Kangyidaunt Township,Ayeyarwady Region,67
+172,173,2021-01-15,Thanbyuzayat Township,Mon State,63
+173,174,2021-01-15,Muse Township,Shan State (North),62
+174,175,2021-01-15,Einme Township,Ayeyarwady Region,62
+175,176,2021-01-15,Loikaw Township,Kayah State,60
+176,177,2021-01-15,Lemyethna Township,Ayeyarwady Region,56
+177,178,2021-01-15,Ywangan Township,Shan State (South),54
+178,179,2021-01-15,Paukkhaung Township,Bago Region,50
+179,180,2021-01-15,Taze Township,Sagaing Region,49
+180,181,2021-01-15,Htantabin Township,Bago Region,49
+181,182,2021-01-15,Seikphyu Township,Magway Region,49
+182,183,2021-01-15,Tatkon Township,Naypyitaw,48
+183,184,2021-01-15,Chaungzon Township,Mon State,48
+184,185,2021-01-15,Mogoke Township,Mandalay Region,47
+185,186,2021-01-15,Kyaukkyi Township,Bago Region,46
+186,187,2021-01-15,Launglon Township,Tanintharyi Region,45
+187,188,2021-01-15,Mohnyin Township,Kachin State,44
+188,189,2021-01-15,Thabeikkyin Township,Mandalay Region,44
+189,190,2021-01-15,Mindat Township,Chin State,43
+190,191,2021-01-15,Mahlaing Township,Mandalay Region,43
+191,192,2021-01-15,Palaw Township,Tanintharyi Region,43
+192,193,2021-01-15,Oke Ta Ra Thi Ri Township,Naypyitaw,41
+193,194,2021-01-15,Zalun Township,Ayeyarwady Region,41
+194,195,2021-01-15,Lashio Township,Shan State (North),41
+195,196,2021-01-15,Myanaung Township,Ayeyarwady Region,40
+196,197,2021-01-15,Indaw Township,Sagaing Region,39
+197,198,2021-01-15,Sinbaungwe Township,Magway Region,39
+198,199,2021-01-15,Gwa Township,Rakhine State,38
+199,200,2021-01-15,Pantanaw Township,Ayeyarwady Region,38
+200,201,2021-01-15,Minhla Township,Magway Region,37
+201,202,2021-01-15,Chaung-U Township,Sagaing Region,37
+202,203,2021-01-15,Tabayin Township,Sagaing Region,36
+203,204,2021-01-15,Yesagyo Township,Magway Region,36
+204,205,2021-01-15,Det Khi Na Thi Ri Township,Naypyitaw,35
+205,206,2021-01-15,Pale Township,Sagaing Region,35
+206,207,2021-01-15,Nawnghkio Township,Shan State (North),35
+207,208,2021-01-15,Homalin Township,Sagaing Region,34
+208,209,2021-01-15,Kyangin Township,Ayeyarwady Region,33
+209,210,2021-01-15,Wetlet Township,Sagaing Region,33
+210,211,2021-01-15,Ye-U Township,Sagaing Region,32
+211,212,2021-01-15,Pauk Township,Magway Region,30
+212,213,2021-01-15,Mingin Township,Sagaing Region,30
+213,214,2021-01-15,Lawksawk Township,Shan State (South),30
+214,215,2021-01-15,Kyaukme Township,Shan State (North),29
+215,216,2021-01-15,Matupi Township,Chin State,29
+216,217,2021-01-15,Paletwa Township,Chin State,28
+217,218,2021-01-15,Yebyu Township,Tanintharyi Region,27
+218,219,2021-01-15,Ramree Township,Rakhine State,27
+219,220,2021-01-15,Myinmu Township,Sagaing Region,27
+220,221,2021-01-15,Kawlin Township,Sagaing Region,27
+221,222,2021-01-15,Katha Township,Sagaing Region,26
+222,223,2021-01-15,Kawthoung Township,Tanintharyi Region,25
+223,224,2021-01-15,Budalin Township,Sagaing Region,25
+224,225,2021-01-15,Khin-U Township,Sagaing Region,25
+225,226,2021-01-15,Tonzang Township,Chin State,24
+226,227,2021-01-15,Kani Township,Sagaing Region,24
+227,228,2021-01-15,Hakha Township,Chin State,23
+228,229,2021-01-15,Thabaung Township,Ayeyarwady Region,22
+229,230,2021-01-15,Pinlaung Township,Shan State (South),22
+230,231,2021-01-15,,Yangon Region,21
+231,232,2021-01-15,Shwegu Township,Kachin State,21
+232,233,2021-01-15,Falam Township,Chin State,21
+233,234,2021-01-15,Kyunhla Township,Sagaing Region,21
+234,235,2021-01-15,Loilen Township,Shan State (South),20
+235,236,2021-01-15,Namhsan Township,Shan State (North),20
+236,237,2021-01-15,Myaung Township,Sagaing Region,19
+237,238,2021-01-15,Bhamo Township,Kachin State,19
+238,239,2021-01-15,Kamma Township,Magway Region,19
+239,240,2021-01-15,Kutkai Township,Shan State (North),19
+240,241,2021-01-15,Hsihseng Township,Shan State (South),17
+241,242,2021-01-15,Singu Township,Mandalay Region,17
+242,243,2021-01-15,Mogaung Township,Kachin State,16
+243,244,2021-01-15,Ayadaw Township,Sagaing Region,15
+244,245,2021-01-15,Thayetchaung Township,Tanintharyi Region,15
+245,246,2021-01-15,Pindaya Township,Shan State (South),14
+246,247,2021-01-15,Ngape Township,Magway Region,14
+247,248,2021-01-15,Kyunsu Township,Tanintharyi Region,14
+248,249,2021-01-15,Waingmaw Township,Kachin State,14
+249,250,2021-01-15,Kalewa Township,Sagaing Region,14
+250,251,2021-01-15,Munaung Township,Rakhine State,13
+251,252,2021-01-15,Ngapudaw Township,Ayeyarwady Region,13
+252,253,2021-01-15,Hsipaw Township,Shan State (North),13
+253,254,2021-01-15,Kyainseikgyi Township,Kayin State,12
+254,255,2021-01-15,Mongyawng Township,Shan State (East),12
+255,256,2021-01-15,Bokpyin Township,Tanintharyi Region,12
+256,257,2021-01-15,Nyaungshwe Township,Shan State (South),12
+257,258,2021-01-15,Saw Township,Magway Region,12
+258,259,2021-01-15,Thandaunggyi Township,Kayin State,11
+259,260,2021-01-15,Mongmit Township,Shan State (North),11
+260,261,2021-01-15,Hopong Township,Shan State (South),10
+261,262,2021-01-15,Momauk Township,Kachin State,9
+262,263,2021-01-15,Wuntho Township,Sagaing Region,9
+263,264,2021-01-15,Sidoktaya Township,Magway Region,9
+264,265,2021-01-15,Nansang Township,Shan State (South),8
+265,266,2021-01-15,Namhkan Township,Shan State (North),8
+266,267,2021-01-15,Namtu Township,Shan State (North),7
+267,268,2021-01-15,Pekon Township,Shan State (South),7
+268,269,2021-01-15,Kanpetlet Township,Chin State,7
+269,270,2021-01-15,Tilin Township,Magway Region,6
+270,271,2021-01-15,Kengtung Township,Shan State (East),6
+271,272,2021-01-15,Mindon Township,Magway Region,6
+272,273,2021-01-15,Mabein Township,Shan State (North),6
+273,274,2021-01-15,Monghpyak Township,Shan State (East),5
+274,275,2021-01-15,Thantlang Township,Chin State,5
+275,276,2021-01-15,Paungbyin Township,Sagaing Region,5
+276,277,2021-01-15,Mongton Township,Shan State (East),5
+277,278,2021-01-15,Mongping Township,Shan State (East),5
+278,279,2021-01-15,Tigyaing Township,Sagaing Region,4
+279,280,2021-01-15,Tangyan Township,Shan State (North),4
+280,281,2021-01-15,Mongnai Township,Shan State (South),4
+281,282,2021-01-15,Nanyun Township,Sagaing Region,4
+282,283,2021-01-15,Hpapun Township,Kayin State,3
+283,284,2021-01-15,Monghsat Township,Shan State (East),3
+284,285,2021-01-15,Hkamti Township,Sagaing Region,3
+285,286,2021-01-15,Demoso Township,Kayah State,3
+286,287,2021-01-15,Monghsu Township,Shan State (South),3
+287,288,2021-01-15,,Naypyitaw,2
+288,289,2021-01-15,Puta-O Township,Kachin State,2
+289,290,2021-01-15,Langkho Township,Shan State (South),2
+290,291,2021-01-16,Mingaladon Township,Yangon Region,6021
+291,292,2021-01-16,North Okkalapa Township,Yangon Region,5824
+292,293,2021-01-16,Hlaingtharya Township,Yangon Region,4804
+293,294,2021-01-16,Insein Township,Yangon Region,4608
+294,295,2021-01-16,Thingangyun Township,Yangon Region,4531
+295,296,2021-01-16,Mayangone Township,Yangon Region,3839
+296,297,2021-01-16,Shwepyithar Township,Yangon Region,3796
+297,298,2021-01-16,Bago Township,Bago Region,3195
+298,299,2021-01-16,Dagon Myothit (South) Township,Yangon Region,3175
+299,300,2021-01-16,Tamwe Township,Yangon Region,3006
+300,301,2021-01-16,South Okkalapa Township,Yangon Region,2964
+301,302,2021-01-16,Hlaing Township,Yangon Region,2956
+302,303,2021-01-16,Thanlyin Township,Yangon Region,2855
+303,304,2021-01-16,Chanayethazan Township,Mandalay Region,2666
+304,305,2021-01-16,Kamaryut Township,Yangon Region,2487
+305,306,2021-01-16,Aungmyaythazan Township,Mandalay Region,2476
+306,307,2021-01-16,Mahaaungmyay Township,Mandalay Region,2461
+307,308,2021-01-16,Thaketa Township,Yangon Region,2390
+308,309,2021-01-16,Dagon Myothit (North) Township,Yangon Region,2311
+309,310,2021-01-16,Hmawbi Township,Yangon Region,2114
+310,311,2021-01-16,Dagon Myothit (East) Township,Yangon Region,2046
+311,312,2021-01-16,Kyeemyindaing Township,Yangon Region,2038
+312,313,2021-01-16,Sanchaung Township,Yangon Region,2027
+313,314,2021-01-16,Chanmyathazi Township,Mandalay Region,1938
+314,315,2021-01-16,Mingalartaungnyunt Township,Yangon Region,1845
+315,316,2021-01-16,Amarapura Township,Mandalay Region,1590
+316,317,2021-01-16,Sittwe Township,Rakhine State,1549
+317,318,2021-01-16,Bahan Township,Yangon Region,1548
+318,319,2021-01-16,Dala Township,Yangon Region,1412
+319,320,2021-01-16,Mawlamyine Township,Mon State,1385
+320,321,2021-01-16,Yankin Township,Yangon Region,1297
+321,322,2021-01-16,Lanmadaw Township,Yangon Region,1277
+322,323,2021-01-16,Dagon Myothit (Seikkan),Yangon Region,1252
+323,324,2021-01-16,Botahtaung Township,Yangon Region,1169
+324,325,2021-01-16,Hlegu Township,Yangon Region,1118
+325,326,2021-01-16,Dawbon Township,Yangon Region,1103
+326,327,2021-01-16,Ahlone Township,Yangon Region,1092
+327,328,2021-01-16,Kyauktan Township,Yangon Region,952
+328,329,2021-01-16,Pyigyitagon Township,Mandalay Region,948
+329,330,2021-01-16,Twantay Township,Yangon Region,923
+330,331,2021-01-16,Pabedan Township,Yangon Region,880
+331,332,2021-01-16,Pazundaung Township,Yangon Region,811
+332,333,2021-01-16,Latha Township,Yangon Region,786
+333,334,2021-01-16,Pathein Township,Ayeyarwady Region,763
+334,335,2021-01-16,Dagon Township,Yangon Region,701
+335,336,2021-01-16,Hinthada Township,Ayeyarwady Region,693
+336,337,2021-01-16,Taikkyi Township,Yangon Region,659
+337,338,2021-01-16,Patheingyi Township,Mandalay Region,657
+338,339,2021-01-16,Htantabin Township,Yangon Region,639
+339,340,2021-01-16,Kyauktada Township,Yangon Region,635
+340,341,2021-01-16,Aunglan Township,Magway Region,605
+341,342,2021-01-16,Hpa-An Township,Kayin State,541
+342,343,2021-01-16,Thayarwady Township,Bago Region,516
+343,344,2021-01-16,Sagaing Township,Sagaing Region,509
+344,345,2021-01-16,Maubin Township,Ayeyarwady Region,506
+345,346,2021-01-16,Mawlamyinegyun Township,Ayeyarwady Region,496
+346,347,2021-01-16,Laboratory Confirmed,New Case (15-1-2021,491
+347,348,2021-01-16,Phyu Township,Bago Region,486
+348,349,2021-01-16,Zay Yar Thi Ri Township,Naypyitaw,484
+349,350,2021-01-16,Thaton Township,Mon State,476
+350,351,2021-01-16,Myingyan Township,Mandalay Region,470
+351,352,2021-01-16,Letpadan Township,Bago Region,468
+352,353,2021-01-16,Hpakant Township,Kachin State,450
+353,354,2021-01-16,Kyaukpyu Township,Rakhine State,446
+354,355,2021-01-16,Seikgyikanaungto Township,Yangon Region,441
+355,356,2021-01-16,Kale Township,Sagaing Region,437
+356,357,2021-01-16,Kayan Township,Yangon Region,437
+357,358,2021-01-16,Waw Township,Bago Region,431
+358,359,2021-01-16,Thongwa Township,Yangon Region,420
+359,360,2021-01-16,Dedaye Township,Ayeyarwady Region,412
+360,361,2021-01-16,Magway Township,Magway Region,398
+361,362,2021-01-16,Maungdaw Township,Rakhine State,398
+362,363,2021-01-16,Myawaddy Township,Kayin State,390
+363,364,2021-01-16,Kawa Township,Bago Region,382
+364,365,2021-01-16,Kyauktaga Township,Bago Region,345
+365,366,2021-01-16,Kawhmu Township,Yangon Region,319
+366,367,2021-01-16,Kyaikto Township,Mon State,310
+367,368,2021-01-16,Myeik Township,Tanintharyi Region,306
+368,369,2021-01-16,Sintgaing Township,Mandalay Region,301
+369,370,2021-01-16,Kungyangon Township,Yangon Region,298
+370,371,2021-01-16,Salin Township,Magway Region,276
+371,372,2021-01-16,Kyonpyaw Township,Ayeyarwady Region,274
+372,373,2021-01-16,Mrauk-U Township,Rakhine State,265
+373,374,2021-01-16,Kyauktaw Township,Rakhine State,264
+374,375,2021-01-16,Bogale Township,Ayeyarwady Region,263
+375,376,2021-01-16,Taungtha Township,Mandalay Region,258
+376,377,2021-01-16,Nyaunglebin Township,Bago Region,252
+377,378,2021-01-16,Taungdwingyi Township,Magway Region,250
+378,379,2021-01-16,Labutta Township,Ayeyarwady Region,248
+379,380,2021-01-16,Kyaiklat Township,Ayeyarwady Region,248
+380,381,2021-01-16,Nyaungdon Township,Ayeyarwady Region,243
+381,382,2021-01-16,Taunggyi Township,Shan State (South),234
+382,383,2021-01-16,Myothit Township,Magway Region,234
+383,384,2021-01-16,Minhla Township,Bago Region,234
+384,385,2021-01-16,Meiktila Township,Mandalay Region,229
+385,386,2021-01-16,Za Bu Thi Ri Township,Naypyitaw,228
+386,387,2021-01-16,Minbu Township,Magway Region,226
+387,388,2021-01-16,Pyapon Township,Ayeyarwady Region,224
+388,389,2021-01-16,Daik-U Township,Bago Region,223
+389,390,2021-01-16,Pyay Township,Bago Region,220
+390,391,2021-01-16,Shwebo Township,Sagaing Region,220
+391,392,2021-01-16,Kawkareik Township,Kayin State,218
+392,393,2021-01-16,Myaungmya Township,Ayeyarwady Region,215
+393,394,2021-01-16,Okpho Township,Bago Region,201
+394,395,2021-01-16,Natmauk Township,Magway Region,200
+395,396,2021-01-16,Buthidaung Township,Rakhine State,195
+396,397,2021-01-16,Pyinoolwin Township,Mandalay Region,193
+397,398,2021-01-16,Thanatpin Township,Bago Region,192
+398,399,2021-01-16,Taungoo Township,Bago Region,189
+399,400,2021-01-16,Monywa Township,Sagaing Region,183
+400,401,2021-01-16,Toungup Township,Rakhine State,180
+401,402,2021-01-16,Kyaukse Township,Mandalay Region,179
+402,403,2021-01-16,Ann Township,Rakhine State,171
+403,404,2021-01-16,Shwedaung Township,Bago Region,170
+404,405,2021-01-16,Yedashe Township,Bago Region,170
+405,406,2021-01-16,Kyaukpadaung Township,Mandalay Region,166
+406,407,2021-01-16,Bilin Township,Mon State,166
+407,408,2021-01-16,Rathedaung Township,Rakhine State,152
+408,409,2021-01-16,Yenangyaung Township,Magway Region,144
+409,410,2021-01-16,Paung Township,Mon State,137
+410,411,2021-01-16,Nyaung-U Township,Mandalay Region,135
+411,412,2021-01-16,Nattalin Township,Bago Region,134
+412,413,2021-01-16,Chauk Township,Magway Region,132
+413,414,2021-01-16,Pakokku Township,Magway Region,132
+414,415,2021-01-16,Yegyi Township,Ayeyarwady Region,131
+415,416,2021-01-16,Tedim Township,Chin State,130
+416,417,2021-01-16,Pauktaw Township,Rakhine State,125
+417,418,2021-01-16,Gyobingauk Township,Bago Region,124
+418,419,2021-01-16,Ingapu Township,Ayeyarwady Region,122
+419,420,2021-01-16,Madaya Township,Mandalay Region,121
+420,421,2021-01-16,Thandwe Township,Rakhine State,118
+421,422,2021-01-16,Paungde Township,Bago Region,117
+422,423,2021-01-16,Thazi Township,Mandalay Region,116
+423,424,2021-01-16,Monyo Township,Bago Region,116
+424,425,2021-01-16,Dawei Township,Tanintharyi Region,115
+425,426,2021-01-16,Poke Ba Thi Ri Township,Naypyitaw,114
+426,427,2021-01-16,Myitkyina Township,Kachin State,112
+427,428,2021-01-16,Oktwin Township,Bago Region,112
+428,429,2021-01-16,Pyawbwe Township,Mandalay Region,109
+429,430,2021-01-16,Danubyu Township,Ayeyarwady Region,108
+430,431,2021-01-16,Ye Township,Mon State,108
+431,432,2021-01-16,Tada-U Township,Mandalay Region,108
+432,433,2021-01-16,Ponnagyun Township,Rakhine State,105
+433,434,2021-01-16,Tachileik Township,Shan State (East),104
+434,435,2021-01-16,Wakema Township,Ayeyarwady Region,103
+435,436,2021-01-16,Lewe Township,Naypyitaw,102
+436,437,2021-01-16,Tamu Township,Sagaing Region,102
+437,438,2021-01-16,Natogyi Township,Mandalay Region,101
+438,439,2021-01-16,Padaung Township,Bago Region,100
+439,440,2021-01-16,Kalaw Township,Shan State (South),99
+440,441,2021-01-16,Pyinmana Township,Naypyitaw,97
+441,442,2021-01-16,Thegon Township,Bago Region,97
+442,443,2021-01-16,Myebon Township,Rakhine State,95
+443,444,2021-01-16,Myittha Township,Mandalay Region,95
+444,445,2021-01-16,Minbya Township,Rakhine State,92
+445,446,2021-01-16,Myaing Township,Magway Region,92
+446,447,2021-01-16,Yamethin Township,Mandalay Region,90
+447,448,2021-01-16,Wundwin Township,Mandalay Region,89
+448,449,2021-01-16,Yinmarbin Township,Sagaing Region,87
+449,450,2021-01-16,Pwintbyu Township,Magway Region,87
+450,451,2021-01-16,Kyaunggon Township,Ayeyarwady Region,83
+451,452,2021-01-16,Kanbalu Township,Sagaing Region,82
+452,453,2021-01-16,Zigon Township,Bago Region,80
+453,454,2021-01-16,Hlaingbwe Township,Kayin State,78
+454,455,2021-01-16,Mudon Township,Mon State,75
+455,456,2021-01-16,Ngazun Township,Mandalay Region,73
+456,457,2021-01-16,Salingyi Township,Sagaing Region,73
+457,458,2021-01-16,Kyaikmaraw Township,Mon State,72
+458,459,2021-01-16,Shwegyin Township,Bago Region,72
+459,460,2021-01-16,Gangaw Township,Magway Region,69
+460,461,2021-01-16,Thayet Township,Magway Region,68
+461,462,2021-01-16,Kangyidaunt Township,Ayeyarwady Region,67
+462,463,2021-01-16,Muse Township,Shan State (North),64
+463,464,2021-01-16,Thanbyuzayat Township,Mon State,64
+464,465,2021-01-16,Einme Township,Ayeyarwady Region,62
+465,466,2021-01-16,Loikaw Township,Kayah State,61
+466,467,2021-01-16,Lemyethna Township,Ayeyarwady Region,58
+467,468,2021-01-16,Ywangan Township,Shan State (South),54
+468,469,2021-01-16,Chaungzon Township,Mon State,52
+469,470,2021-01-16,Paukkhaung Township,Bago Region,50
+470,471,2021-01-16,Taze Township,Sagaing Region,50
+471,472,2021-01-16,Seikphyu Township,Magway Region,50
+472,473,2021-01-16,Htantabin Township,Bago Region,49
+473,474,2021-01-16,Tatkon Township,Naypyitaw,48
+474,475,2021-01-16,Kyaukkyi Township,Bago Region,47
+475,476,2021-01-16,Mogoke Township,Mandalay Region,47
+476,477,2021-01-16,Launglon Township,Tanintharyi Region,45
+477,478,2021-01-16,Mahlaing Township,Mandalay Region,45
+478,479,2021-01-16,Mohnyin Township,Kachin State,44
+479,480,2021-01-16,Thabeikkyin Township,Mandalay Region,44
+480,481,2021-01-16,Mindat Township,Chin State,43
+481,482,2021-01-16,Palaw Township,Tanintharyi Region,43
+482,483,2021-01-16,Lashio Township,Shan State (North),42
+483,484,2021-01-16,Oke Ta Ra Thi Ri Township,Naypyitaw,41
+484,485,2021-01-16,Zalun Township,Ayeyarwady Region,41
+485,486,2021-01-16,Chaung-U Township,Sagaing Region,40
+486,487,2021-01-16,Myanaung Township,Ayeyarwady Region,40
+487,488,2021-01-16,Indaw Township,Sagaing Region,39
+488,489,2021-01-16,Sinbaungwe Township,Magway Region,39
+489,490,2021-01-16,Gwa Township,Rakhine State,38
+490,491,2021-01-16,Pantanaw Township,Ayeyarwady Region,38
+491,492,2021-01-16,Minhla Township,Magway Region,37
+492,493,2021-01-16,Tabayin Township,Sagaing Region,36
+493,494,2021-01-16,Pale Township,Sagaing Region,36
+494,495,2021-01-16,Yesagyo Township,Magway Region,36
+495,496,2021-01-16,Det Khi Na Thi Ri Township,Naypyitaw,35
+496,497,2021-01-16,Wetlet Township,Sagaing Region,35
+497,498,2021-01-16,Nawnghkio Township,Shan State (North),35
+498,499,2021-01-16,Homalin Township,Sagaing Region,34
+499,500,2021-01-16,Kyangin Township,Ayeyarwady Region,33
+500,501,2021-01-16,Ye-U Township,Sagaing Region,33
+501,502,2021-01-16,Pauk Township,Magway Region,31
+502,503,2021-01-16,Lawksawk Township,Shan State (South),31
+503,504,2021-01-16,Mingin Township,Sagaing Region,30
+504,505,2021-01-16,Kyaukme Township,Shan State (North),29
+505,506,2021-01-16,Matupi Township,Chin State,29
+506,507,2021-01-16,Paletwa Township,Chin State,28
+507,508,2021-01-16,Yebyu Township,Tanintharyi Region,27
+508,509,2021-01-16,Ramree Township,Rakhine State,27
+509,510,2021-01-16,Myinmu Township,Sagaing Region,27
+510,511,2021-01-16,Kawlin Township,Sagaing Region,27
+511,512,2021-01-16,Katha Township,Sagaing Region,27
+512,513,2021-01-16,Kawthoung Township,Tanintharyi Region,25
+513,514,2021-01-16,Budalin Township,Sagaing Region,25
+514,515,2021-01-16,Khin-U Township,Sagaing Region,25
+515,516,2021-01-16,Tonzang Township,Chin State,24
+516,517,2021-01-16,Kani Township,Sagaing Region,24
+517,518,2021-01-16,Hakha Township,Chin State,23
+518,519,2021-01-16,Thabaung Township,Ayeyarwady Region,23
+519,520,2021-01-16,Falam Township,Chin State,23
+520,521,2021-01-16,Pinlaung Township,Shan State (South),22
+521,522,2021-01-16,,Yangon Region,21
+522,523,2021-01-16,Shwegu Township,Kachin State,21
+523,524,2021-01-16,Kyunhla Township,Sagaing Region,21
+524,525,2021-01-16,Loilen Township,Shan State (South),20
+525,526,2021-01-16,Myaung Township,Sagaing Region,20
+526,527,2021-01-16,Namhsan Township,Shan State (North),20
+527,528,2021-01-16,Bhamo Township,Kachin State,19
+528,529,2021-01-16,Kamma Township,Magway Region,19
+529,530,2021-01-16,Kutkai Township,Shan State (North),19
+530,531,2021-01-16,Hsihseng Township,Shan State (South),17
+531,532,2021-01-16,Singu Township,Mandalay Region,17
+532,533,2021-01-16,Ayadaw Township,Sagaing Region,16
+533,534,2021-01-16,Mogaung Township,Kachin State,16
+534,535,2021-01-16,Thayetchaung Township,Tanintharyi Region,15
+535,536,2021-01-16,Pindaya Township,Shan State (South),14
+536,537,2021-01-16,Ngape Township,Magway Region,14
+537,538,2021-01-16,Kyunsu Township,Tanintharyi Region,14
+538,539,2021-01-16,Waingmaw Township,Kachin State,14
+539,540,2021-01-16,Kalewa Township,Sagaing Region,14
+540,541,2021-01-16,Munaung Township,Rakhine State,13
+541,542,2021-01-16,Ngapudaw Township,Ayeyarwady Region,13
+542,543,2021-01-16,Hsipaw Township,Shan State (North),13
+543,544,2021-01-16,Kyainseikgyi Township,Kayin State,12
+544,545,2021-01-16,Mongyawng Township,Shan State (East),12
+545,546,2021-01-16,Bokpyin Township,Tanintharyi Region,12
+546,547,2021-01-16,Nyaungshwe Township,Shan State (South),12
+547,548,2021-01-16,Saw Township,Magway Region,12
+548,549,2021-01-16,Thandaunggyi Township,Kayin State,11
+549,550,2021-01-16,Mongmit Township,Shan State (North),11
+550,551,2021-01-16,Hopong Township,Shan State (South),10
+551,552,2021-01-16,Momauk Township,Kachin State,9
+552,553,2021-01-16,Wuntho Township,Sagaing Region,9
+553,554,2021-01-16,Sidoktaya Township,Magway Region,9
+554,555,2021-01-16,Nansang Township,Shan State (South),8
+555,556,2021-01-16,Namhkan Township,Shan State (North),8
+556,557,2021-01-16,Pekon Township,Shan State (South),8
+557,558,2021-01-16,Namtu Township,Shan State (North),7
+558,559,2021-01-16,Kanpetlet Township,Chin State,7
+559,560,2021-01-16,Tilin Township,Magway Region,6
+560,561,2021-01-16,Kengtung Township,Shan State (East),6
+561,562,2021-01-16,Mindon Township,Magway Region,6
+562,563,2021-01-16,Mabein Township,Shan State (North),6
+563,564,2021-01-16,Monghpyak Township,Shan State (East),5
+564,565,2021-01-16,Thantlang Township,Chin State,5
+565,566,2021-01-16,Paungbyin Township,Sagaing Region,5
+566,567,2021-01-16,Mongton Township,Shan State (East),5
+567,568,2021-01-16,Mongping Township,Shan State (East),5
+568,569,2021-01-16,Tigyaing Township,Sagaing Region,4
+569,570,2021-01-16,Tangyan Township,Shan State (North),4
+570,571,2021-01-16,Demoso Township,Kayah State,4
+571,572,2021-01-16,Mongnai Township,Shan State (South),4
+572,573,2021-01-16,Nanyun Township,Sagaing Region,4
+573,574,2021-01-16,Hpapun Township,Kayin State,3
+574,575,2021-01-16,Monghsat Township,Shan State (East),3
+575,576,2021-01-16,Hkamti Township,Sagaing Region,3
+576,577,2021-01-16,Monghsu Township,Shan State (South),3
+577,578,2021-01-16,,Naypyitaw,2
+578,579,2021-01-16,Puta-O Township,Kachin State,2
+579,580,2021-01-16,Langkho Township,Shan State (South),2
