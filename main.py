@@ -36,7 +36,7 @@ if __name__ == "__main__":
         ts_data['cumulative_no'] = ts_data['cumulative_no'].str.split(',').str.join('').astype(int)
         #print(ts_data.dtypes)
         #print(ts_data['cumulative_no'].head(10))
-
+        ts_data = ts_data.replace({'sr': r'\*'}, {'sr': ''}, regex=True)
 ## change the data type into Float to match with SQL type
         summary['Total_No'] = summary['Total_No'].astype(float)
 

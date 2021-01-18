@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 import pandas as pd
 import re
 import datetime
-
+import numpy as np 
 
 engine = create_engine('mysql+pymysql://root:paing@localhost:3306/mohs')
 ts_read = pd.read_sql('SELECT * FROM township',con=engine)
@@ -74,7 +74,19 @@ sample_ts['First_sr'] = sample_ts.loc[:,'sr'].str.replace(sr_pat, '').str.strip(
 sample_ts = sample_ts[~sample_ts.First_sr.str.contains("New Case")]
 #print(sample_ts.shape)
 sample_ts['First_sr'].replace({
-    ""
-})
-print(pd.unique(sample_ts['First_sr']))
-print(pd.unique(df1['SR_Name_Eng']))
+    "Naypyitaw":"Nay Pyi Taw",
+    "Shan  (South)":"Shan (South)",
+    "Shan  (East)":"Shan (East)",
+    "Shan  (North)":"Shan (North)"
+}, inplace=True)
+#print(pd.unique(sample_ts['First_sr']))
+#print(pd.unique(df1['SR_Name_Eng']))
+
+
+## Merge two df based on township & region columns 
+merged = pd.merge(sample_ts, df1, how='left', left_on=['First_ts','First_sr'], right_on=['Township_Name_Eng', 'SR_Name_Eng'])
+#print(merged.head())
+#print(merged.columns)
+#print(merged.isnull().sum())
+
+print(merged[merged.Tsp_Pcode.isnull()])

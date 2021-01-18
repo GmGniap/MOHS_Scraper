@@ -10,8 +10,12 @@ MOHS Arcgis Dashboard - Scraping and push the data to MySQL to integrate with Po
 
 ### January 16 - Tasks 
 * [x] DF1 from SQL // DF2 from HTML old
-* [] Find duplicates
-* [] Compare the values 
+* [x] Find duplicates
+* [x] Compare the values
+
+### January 18 - Errors & Tasks 
+* Today's error is a little different & difficult thant the previous ones. I've pcode csv that'd region column which needed to be compared with my SQL data. But the region column from SQL & region column from csv isn't the same. Especially one thing is being different - Bago. In SQL , there's only titled as 'Bago' but in CSV , there're Bago(East) & Bago(West). 
+* I still don't have any idea to solve that. But possible way is if I make a dictionary of townships under this two different Bago and then compared with my SQL , titled as the dictionary.  
 
 ## Prerequisites
 ### Activate Environment 
