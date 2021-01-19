@@ -89,4 +89,25 @@ merged = pd.merge(sample_ts, df1, how='left', left_on=['First_ts','First_sr'], r
 #print(merged.columns)
 #print(merged.isnull().sum())
 
-print(merged[merged.Tsp_Pcode.isnull()])
+filter1 = df1["SR_Name_Eng"] == "Yangon"
+filter2 = df1["SR_Name_Eng"] == "Bago (West)"
+trouble = merged[merged.Tsp_Pcode.isnull()]
+#print(trouble.shape)
+trouble = trouble.dropna(axis='columns', how='all')
+#print(trouble.shape)
+#print(trouble)
+
+## Taking Bago data for East & West 
+bago_ts = df1[(df1["SR_Name_Eng"] == "Bago (East)") | (df1["SR_Name_Eng"] == "Bago (West)")]
+#print(bago_ts.shape)
+#bago_ts['check'] = np.where(bago_ts['Township_Name_Eng']==trouble['First_ts'], 'True', 'False')
+#print(bago_ts)
+
+bago_merged = pd.merge(trouble,bago_ts, how='inner', left_on=['First_ts'], right_on = ['Township_Name_Eng'])
+#print(bago_merged.shape)
+#print(merged.shape)
+merged = merged[merged['Tsp_Pcode'].notna()]
+final = pd.concat([merged, bago_merged], ignore_index=True)
+final.to_csv(r'.\pcode.csv', encoding='utf-8')
+print(final.shape)
+#print(final.tail(10))
