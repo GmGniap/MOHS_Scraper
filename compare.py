@@ -14,8 +14,6 @@ ts_read = pd.read_sql('SELECT * FROM township',con=engine)
 ## Check null value on township column
 #print(ts_read[ts_read.townships.isnull()])
 
-
-
 ## Apply Regex for SR clean names 
 #ts_read['sr'].apply(lambda x: re.sub(r'*', '', x))
 #ts_read['sr'] = ts_read['sr'].str.replace(r'Naypyitaw\*', 'NPT')
@@ -47,11 +45,12 @@ sample_ts = sep_date[['townships','sr']].copy()
 #print(sep_date.shape)
 #print(ygn.shape)
 
-
 jan_16 = sep_date.groupby('sr')['cumulative_no']
 #print(jan_16.sum())
-#print(g.transform(lambda x: x.rank(ascending=False)))
+#print(g.transform(lambda x: x.rank(ascending=False))
 
+##
+## **Pcode Generation** ##
 ## Read Pcode excel file 
 #xls = pd.ExcelFile("pcode_9_2.xlsx")
 #df1 = pd.read_excel(xls, '03_Township', engine='openpyxl')
