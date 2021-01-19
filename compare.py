@@ -108,6 +108,6 @@ bago_merged = pd.merge(trouble,bago_ts, how='inner', left_on=['First_ts'], right
 #print(merged.shape)
 merged = merged[merged['Tsp_Pcode'].notna()]
 final = pd.concat([merged, bago_merged], ignore_index=True)
-final.to_csv(r'.\pcode.csv', encoding='utf-8')
+final.to_csv(r'.\pcode.csv')
 print(final.shape)
 #print(final.tail(10))
