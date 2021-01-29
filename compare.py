@@ -1,3 +1,5 @@
+## Code for generate cleaned Pcode.csv file for map visual 
+
 from sqlalchemy import create_engine
 import pandas as pd
 import re
@@ -35,30 +37,39 @@ ts_read = ts_read.replace({'sr': r'\*'}, {'sr': ''}, regex=True)
 ts_read['trouble_day'] = ts_read['upload_date'].map(lambda x: x.strftime('%D'))
 group_test = ts_read.groupby('trouble_day').size()
 print(group_test)
-''' 
+
 ## To filter date , used datetime.date funtion 
 sep_date = ts_read[ts_read['upload_date'] == datetime.date(2021,1,18)]
 sample_ts = sep_date[['townships','sr']].copy()
+''' 
+
+## Take copy of all data 
+sample_ts = ts_read.copy()
+#print(sample_ts.head())
+
 ## Take datframe Yangon Region only & Date-Jan16 
 #ygn = ts_read[(ts_read['sr']=='Yangon Region') & (ts_read['upload_date'] == datetime.date(2021,1,16))]
 #print(ygn)
 #print(sep_date.shape)
 #print(ygn.shape)
 
-jan_16 = sep_date.groupby('sr')['cumulative_no']
+#jan_16 = sep_date.groupby('sr')['cumulative_no']
 #print(jan_16.sum())
 #print(g.transform(lambda x: x.rank(ascending=False))
 
-##
+## for PowerBI visual that's okay
 ## **Pcode Generation** ##
 ## Read Pcode excel file 
 #xls = pd.ExcelFile("pcode_9_2.xlsx")
 #df1 = pd.read_excel(xls, '03_Township', engine='openpyxl')
+
 cols_to_keep = ['Township_Name_Eng','Tsp_Pcode','SR_Pcode','SR_Name_Eng','Township_Name_MMR']
 df1 = pd.read_excel('./pcode_9_2.xlsx', sheet_name='03_Township', engine='openpyxl')
 df1 = df1[cols_to_keep]
 #print(df1.head())
 #print(df1.columns)
+
+
 
 ## take only first value of the words - example: Botahtaung Township >> Botahtaung , YGN Region >> YGN 
 remove_pat = re.compile(r'Township')
@@ -107,6 +118,13 @@ bago_merged = pd.merge(trouble,bago_ts, how='inner', left_on=['First_ts'], right
 #print(merged.shape)
 merged = merged[merged['Tsp_Pcode'].notna()]
 final = pd.concat([merged, bago_merged], ignore_index=True)
-final.to_csv(r'.\pcode.csv')
-print(final.shape)
-#print(final.tail(10))
+
+final['First_sr'] = final['First_sr'].replace(regex=[r'\(\w+\)'], value='').str.strip()
+print(pd.unique(final['First_sr']))
+final.to_csv(r'.\pcode_studio.csv')
+#print(final.shape)
+#print(final[['First_ts','First_sr']].tail(10))
+print("Successful!")
+
+
+## To reduce data size , need to remove unnecessary columns
